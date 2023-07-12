@@ -14,7 +14,7 @@ To run this script, you need Node.js and npm installed on your machine. If you d
 
 Clone this repository to your local machine:
 
-    git clone https://github.com/your-github-username/your-repository-name.git
+    git clone https://github.com/CedricL46/Skyblog-To-Pdf-Downloader.git
 
 Open a terminal in the project directory and install the required npm packages:
 
