@@ -22,8 +22,11 @@ yarn-error.log
 # Environment files
 .env
 
-# PDF directory
-/pdf/
+# Ignore all contents in the pdf directory
+pdf/*
+
+# Do not ignore the pdf directory itself
+!pdf/
 
 # Merged PDF file
 merged.pdf
