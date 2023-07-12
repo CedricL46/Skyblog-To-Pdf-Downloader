@@ -23,7 +23,7 @@ yarn-error.log
 .env
 
 # Ignore all contents in the pdf directory
-pdf/*
+pdf/*.pdf
 
 # Do not ignore the pdf directory itself
 !pdf/
